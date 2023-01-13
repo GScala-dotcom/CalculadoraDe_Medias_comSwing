@@ -1,7 +1,6 @@
 package calculadora;
 
 import java.awt.event.ActionEvent;
-import java.text.DecimalFormat;
 
 /* >>>>>> MS = (((P1 + P2) / 2) * 6 + N2 * 4) / 10 + Participação <<<<<< */
 
